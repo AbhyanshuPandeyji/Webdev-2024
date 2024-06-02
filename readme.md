@@ -1,1 +1,0 @@
-this is the folder that contain all the projects
